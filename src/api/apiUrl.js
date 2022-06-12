@@ -1,1 +1,1 @@
-export const apiUrl = "http://api.tvmaze.com/search/shows?q=girls";
+export const apiUrl = "https://api.tvmaze.com/search/shows?q=girls";
